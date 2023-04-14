@@ -1,4 +1,5 @@
 import React from "react";
+import CommentCreate from "./CommentCreate";
 import PostCreate from './PostCreate'
 import PostList from "./PostList";
 
